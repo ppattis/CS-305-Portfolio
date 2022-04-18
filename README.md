@@ -16,14 +16,14 @@
 
 
 
-##How did you ensure the code and software applicaiton were functional and secure?  After refactoring code, how did you check to see whether you introduced new vulnerabilities?
+## How did you ensure the code and software applicaiton were functional and secure?  After refactoring code, how did you check to see whether you introduced new vulnerabilities?
 
 
 
-##What resources, tools, or coding practices did you employ that you might find helpful in future assignmnets or tasks?
+## What resources, tools, or coding practices did you employ that you might find helpful in future assignmnets or tasks?
 
 
 
-##Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, or experience.  What from this particular assignment might you want to showcase to a future employer?
+## Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, or experience.  What from this particular assignment might you want to showcase to a future employer?
 
 
